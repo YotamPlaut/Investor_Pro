@@ -1,0 +1,14 @@
+numpy
+pandas
+apache-airflow
+apache-airflow-providers-postgres
+sqlalchemy
+google-cloud
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+scikit-learn
+sqlalchemy
+pg8000
